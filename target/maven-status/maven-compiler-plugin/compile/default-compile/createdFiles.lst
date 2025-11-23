@@ -1,0 +1,8 @@
+com/meeweel/ai/SentimentController.class
+com/meeweel/ai/service/SentimentResult.class
+com/meeweel/ai/SentimentApplication.class
+com/meeweel/ai/SentimentController$SentimentResponse.class
+com/meeweel/ai/service/SentimentService.class
+com/meeweel/ai/inference/SentimentModelLoader$ModelDefinition.class
+com/meeweel/ai/inference/SentimentModel.class
+com/meeweel/ai/inference/SentimentModelLoader.class
